@@ -15,7 +15,6 @@ public class Jurnal1 {
         for(int i=1; i<=c; i++){            
             a=b;
             b=hasil;
-            int jum = a + b + c;
             System.out.print(jum+" ");
             hasil=a+b;
          }
